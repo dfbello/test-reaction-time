@@ -1,0 +1,19 @@
+{
+  "name": "test-reaction-time",
+  "version": "1.0.1",
+  "description": "Test your reaction time with this little f1-themed game.",
+  "keywords": [
+    "reaction",
+    "f1",
+    "formula 1"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Bello <dbello@unal.edu.co> (https://www.github.com/dfbello)",
+  "license": "MIT",
+  "bin": {
+    "test-reaction-time": "./index.js"
+  }
+}
