@@ -22,4 +22,12 @@ This module is a little f1-themed game for testing your reaction time.
 
     `npm install test-reaction-time -D`
 
-    Make sure to add the `-D` or `--save-dev` flag.
+Make sure to add the `-D` or `--save-dev` flag.
+
+---
+
+
+
+#### Note:
+
+You can check it out in the official npm repository [here](https://www.npmjs.com/package/test-reaction-time).
